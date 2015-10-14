@@ -22,4 +22,8 @@ Some tips on tunning and support.
 Java
 ----
 
+Javascript libs
+---------------
+* [mapdata](http://code.highcharts.com/mapdata/) -- `highcharts maps`
+* [leafletjs] (http://leafletjs.com/examples/geojson.html) -- ` maps, geojson`
 
