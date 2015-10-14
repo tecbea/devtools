@@ -2,7 +2,7 @@
 Developer Tools
 ===============
 
-This page is for tips and links for great stuff on internet, usefull for developers.
+This page is for tips for great stuff on internet, usefull for developers.
 
 
 Github
