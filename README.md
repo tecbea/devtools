@@ -26,4 +26,8 @@ Javascript libs
 ---------------
 * [mapdata](http://code.highcharts.com/mapdata/) -- `highcharts maps`
 * [leafletjs] (http://leafletjs.com/examples/geojson.html) -- ` maps, geojson`
+* [visjs] (http://visjs.org/) -- Hierarchical Layout 
+* [d3js wrapper] (http://c3js.org/) -- c3.js
+
+
 
