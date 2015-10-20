@@ -13,19 +13,17 @@ Github
 
 Github Commands
 -------------
-* [init] git init
-* [status] git status
-* [stage] git add .
-* [log] git log
-* [.gitignore] ignore file
-* [branch] git branch 'mybranch'
-* [checkout branch] git chekcout 'mybranch'
-* [checkout master] git chekcout master 
-* [merge branch] git merge mybranch
-* [clone] git clone https://github.com/tecbea/devtools.git
-* [push] git push -- `puch changes to server`
-
-
+* git init -- `init a git server`
+* git status -- `git status`
+* git add . -- `stage a folder `
+* git log -- `check git log`
+* .gitignore -- `git ignore file`
+* git branch 'mybranch' -- `git create a branch`
+* git chekcout 'mybranch' -- `git swap to a branch`
+* git chekcout master -- `git swap to master`
+* git merge mybranch -- `git merge mybranch to master`
+* git clone https://github.com/tecbea/devtools.git -- `git clone a git from a url repo`
+* git push -- `puch changes to server, after stage and commit`
 
 
 
