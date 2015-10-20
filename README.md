@@ -8,6 +8,25 @@ This page is for tips for great stuff on internet, usefull for developers.
 Github
 ------
 * [Markdown basics] (https://help.github.com/articles/markdown-basics/) -- `github markdown basics`
+* [QGit] (http://linoxide.com/ubuntu-how-to/install-qgit-viewer-ubuntu-14-04/)
+* [Got Proxy] (http://xmodulo.com/how-to-use-git-behind-proxy-on-ubuntu.html)
+
+Github Commands
+-------------
+* [init] git init
+* [status] git status
+* [stage] git add .
+* [log] git log
+* [.gitignore] ignore file
+* [branch] git branch 'mybranch'
+* [checkout branch] git chekcout 'mybranch'
+* [checkout master] git chekcout master 
+* [merge branch] git merge mybranch
+* [clone] git clone https://github.com/tecbea/devtools.git
+* [push] git push -- `puch changes to server`
+
+
+
 
 
 Cassandra
@@ -28,6 +47,7 @@ Javascript libs
 * [leafletjs] (http://leafletjs.com/examples/geojson.html) -- ` maps, geojson`
 * [visjs] (http://visjs.org/) -- Hierarchical Layout 
 * [d3js wrapper] (http://c3js.org/) -- c3.js
+
 
 
 
