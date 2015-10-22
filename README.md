@@ -24,6 +24,7 @@ Github Commands
 * git merge mybranch -- `git merge mybranch to master`
 * git clone https://github.com/tecbea/devtools.git -- `git clone a git from a url repo`
 * git push -- `puch changes to server, after stage and commit`
+* git fetch -- `get changes from remote server`
 
 
 
@@ -35,6 +36,10 @@ Some tips on tunning and support.
 
 * [Compaction](http://www.datastax.com/dev/blog/when-to-use-leveled-compaction) -- `When to Use Leveled Compaction`
 
+
+Nmap
+----
+* nmap -Pn <host> -- `display open ports on a host`
 
 Java
 ----
