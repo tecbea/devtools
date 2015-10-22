@@ -37,9 +37,33 @@ Some tips on tunning and support.
 * [Compaction](http://www.datastax.com/dev/blog/when-to-use-leveled-compaction) -- `When to Use Leveled Compaction`
 
 
-Nmap
-----
+Security
+---------
 * nmap -Pn <host> -- `display open ports on a host`
+
+Wifi sniffer
+---------
+* sudo apt-get install kismet -- `ubuntu wifi sniffer`
+
+* goto uau
+sudo ifconfig wlan0 down
+sudo iwconfig wlan0 mode monitor
+iwconfig wlan0
+sudo ifconfig wlan0 up
+sudo tcpdump -i wlan0 -n -w file.cap
+
+* back to normal
+sudo ifconfig wlan0 down
+sudo iwconfig wlan0 mode managed
+sudo ifconfig wlan0 up
+iwconfig wlan0
+
+
+* sudo apt-get install wavemon -- `ubuntu wifi sniffer`
+* watch -n 1 iwconfig wlan0 -- ``
+* wavemon -i wlan0 -- ``
+
+
 
 Java
 ----
