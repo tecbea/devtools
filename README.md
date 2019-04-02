@@ -25,7 +25,7 @@ Github Commands
 * git clone https://github.com/tecbea/devtools.git -- `git clone a git from a url repo`
 * git push -- `puch changes to server, after stage and commit`
 * git fetch -- `get changes from remote server`
-
+* git linux clients -- 
 
 
 Cassandra
